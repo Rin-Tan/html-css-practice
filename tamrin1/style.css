@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(34, 34, 34);
+  align-items: center;   
+}
+
+.image{
+  width: 200px;
+  border-radius: 100%;
+}
+
+.username{
+  color: rgb(167, 167, 167);
+  margin-left: 55px;
+  font-family: Arial;
+
+}
+
+.search_bar{
+  margin-left: 25px;
+  border-radius: 20px;
+  height: 25px;
+  border-style: hidden;
+    
+}
+.search_bar:active{
+  border-style: hidden;
+}
